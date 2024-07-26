@@ -1,3 +1,4 @@
-22
-23
-24
+Name: John
+Age: 30
+Updated Name: Alice
+Updated Age: 25
