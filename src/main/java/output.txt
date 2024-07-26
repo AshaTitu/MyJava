@@ -1,4 +1,1 @@
-Name: John
-Age: 30
-Updated Name: Alice
-Updated Age: 25
+Hello, World!
