@@ -1,1 +1,1 @@
-Hello, World!
+Enter a word to check if it's a palindrome:
